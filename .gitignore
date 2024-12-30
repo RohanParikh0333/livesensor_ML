@@ -174,3 +174,4 @@ artifact
 .env
 myenv
 logs
+saved_models
